@@ -7,8 +7,8 @@ def preprocess_individual(data):
     This function applied the various preprocessing techniques and feature transformations
     discussed in part 1.1 to the data.
     
-    Params:data - the dataset with the columns given in schema
-    Returns: Preprocessed dataset
+    :param data: Original Data
+    :return: Preprocessed dataset
     
     """
     def get_date(name):
@@ -96,6 +96,14 @@ def preprocess_individual(data):
     
 
 def percentage_diff(y_actual, y_predicted):
+    
+    """
+    :param y_actual: Actual Labels
+    :param y_predicted: Predicted Labels
+    :return: Dict with percentage differences
+    
+    """
+        
     f = np.array(abs(y_predicted - y_actual))/y_actual
     data_dict = {'10% or lesser Difference':0 , '25% or lesser Difference': 0, 
                  '50% or lesser Difference': 0, '75% or lesser Difference': 0, 
