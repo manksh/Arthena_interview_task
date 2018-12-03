@@ -105,18 +105,18 @@ def percentage_diff(y_actual, y_predicted):
     """
         
     f = np.array(abs(y_predicted - y_actual))/y_actual
-    data_dict = {'10% or lesser Difference':0 , '25% or lesser Difference': 0, 
-                 '50% or lesser Difference': 0, '75% or lesser Difference': 0, 
+    data_dict = {'10% or lesser Difference':0 , '25% - 10% Difference': 0, 
+                 '50% - 25% Difference': 0, '75% - 50% Difference': 0, 
                  'Greater than or Equal to 100%': 0}
     for item in f:
         if item <= 10:
             data_dict['10% or lesser Difference'] += 1
         elif item <= 25:
-            data_dict['25% or lesser Difference'] += 1
+            data_dict['25% - 10% Difference'] += 1
         elif item <= 50:
-            data_dict['50% or lesser Difference'] += 1
+            data_dict['50% - 25% Difference'] += 1
         elif item <= 75:
-            data_dict['75% or lesser Difference'] += 1
+            data_dict['75% - 50% Difference'] += 1
         else:
             data_dict['Greater than or Equal to 100%'] += 1
             
