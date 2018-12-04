@@ -1,429 +1,392 @@
 ,artist_name,artist_nationality,artist_birth_year,artist_death_year,auction_house,auction_sale_id,auction_department,auction_location,auction_date,auction_currency,exchange_rate_to_usd,auction_lot_count,lot_id,lot_place_in_auction,lot_description,lot_link,work_title,work_medium,work_execution_year,work_dimensions,work_height,work_width,work_depth,work_measurement_unit,hammer_price,buyers_premium,estimate_low,estimate_high,predicted_hammer_price
-0,Pablo Picasso,Spanish,1881.0,1973.0,Sothebys,N09963,Decorative Arts,New York,2018-12-06T19:00:00.928000,USD,1.0,123.0,13,13.0,"
-                        The complete book, comprising four lithographs, one printed in colors, 1961, from the edition of unknown size, with&nbsp;text by Jaime Sabartés,&nbsp;on wove paper, bound (as issued), printed by Mourlot, Paris, published by George Braziller, New York, contained in the original cloth-covered boards&nbsp;and dust jacket<br>10 x 12 7/8  x 1 in.; 25.5 x 32.8 x 2.5 cm<br>",http://www.sothebys.com/en/auctions/ecatalogue/2018/lady-blue-eyes-property-barbara-frank-sinatra-n09963/lot.13.html,"Picasso: Toreros (B. 1014-1017; M. 346, 348-350; Cramer Books 113)",print,1961.0,10 x 12 7/8  x 1 in (25.5 x 32.8 x 2.5 cm),25.5,32.8,2.5,cm,-1.0,0.0,1000.0,1500.0,33862.919087796705
-1,Pablo Picasso,Spanish,1881.0,1973.0,Sothebys,N09963,Decorative Arts,New York,2018-12-06T19:00:00.928000,USD,1.0,123.0,19,19.0,"
-                        <em>Terre de faïence&nbsp;</em>plaque, painted in colors and partially glazed, 1968, numbered 35/100, inscribed 'J. 126 B', with the Empreinte Originale de Picasso and Madoura stamps, framed<br>8 5/8  x 8 5/8  in.; 21.8 x 21.8 cm<br>",http://www.sothebys.com/en/auctions/ecatalogue/2018/lady-blue-eyes-property-barbara-frank-sinatra-n09963/lot.19.html,Visage Au Trait Oblique (Alain Ramie 587),painting,1968.0,8 5/8  x 8 5/8  in (21.8 x 21.8 cm),21.8,21.8,-1.0,cm,-1.0,0.0,3000.0,4000.0,33862.919087796705
-2,Pablo Picasso,Spanish,1881.0,1973.0,Sothebys,N09963,Decorative Arts,New York,2018-12-06T19:00:00.928000,USD,1.0,123.0,20,20.0,"
-                        <em>Terre de faïence</em> plaque, painted in colors and partially glazed, 1956, numbered 90/250, inscribed 'K. 120', 'Edition Picasso' and 'Madoura', framed<br>7 7/8  x 7 7/8  in.; 20 x 20 cm<br>",http://www.sothebys.com/en/auctions/ecatalogue/2018/lady-blue-eyes-property-barbara-frank-sinatra-n09963/lot.20.html,Masque (A.R. 311),painting,1956.0,7 7/8  x 7 7/8  in (20 x 20 cm),20.0,20.0,-1.0,cm,-1.0,0.0,6000.0,8000.0,33862.919087796705
-3,Pablo Picasso,Spanish,1881.0,1973.0,Sothebys,N09963,Decorative Arts,New York,2018-12-06T19:00:00.928000,USD,1.0,123.0,21,21.0,"
-                        <em>Terre de faïence&nbsp;</em>plaque, painted in colors and partially glazed, 1956, numbered 100/300, inscribed 'K. 121', 'Edition Picasso' and 'Madoura', framed<br>7 7/8  x 7 7/8  in.; 20.1 x 20.1 cm<br>",http://www.sothebys.com/en/auctions/ecatalogue/2018/lady-blue-eyes-property-barbara-frank-sinatra-n09963/lot.21.html,Masque (A.R. 310),painting,1956.0,7 7/8  x 7 7/8  in (20.1 x 20.1 cm),20.1,20.1,-1.0,cm,-1.0,0.0,6000.0,8000.0,33862.919087796705
-4,Pablo Picasso,Spanish,1881.0,1973.0,Sothebys,N09963,Decorative Arts,New York,2018-12-06T19:00:00.928000,USD,1.0,123.0,22,22.0,"
-                        <em>Terre de faïence</em> plate, painted in colors and partially glazed, 1956, numbered 25/100, with the Empreinte Originale de Picasso and Madoura stamps<br>16 7/8  in.; 42.8 cm<br>",http://www.sothebys.com/en/auctions/ecatalogue/2018/lady-blue-eyes-property-barbara-frank-sinatra-n09963/lot.22.html,Horloge A La Langue (A.R. 327),painting,1956.0,16 7/8  in (42.8 cm),-1.0,-1.0,-1.0,cm,-1.0,0.0,4000.0,6000.0,33862.919087796705
-5,Pablo Picasso,Spanish,1881.0,1973.0,Sothebys,N09963,Decorative Arts,New York,2018-12-06T19:00:00.928000,USD,1.0,123.0,23,23.0,"
-                        <em>Terre de faïence&nbsp;</em>plate, 1965, numbered 16/100, inscribed 'T120', with the Empreinte Originale de Picasso and Madoura stamps<br>10 1/2  in.; 26.8 cm<br>",http://www.sothebys.com/en/auctions/ecatalogue/2018/lady-blue-eyes-property-barbara-frank-sinatra-n09963/lot.23.html,Visage (A.R. 534),painting,1965.0,10 1/2  in (26.8 cm),-1.0,-1.0,-1.0,cm,-1.0,0.0,4000.0,6000.0,33862.919087796705
-6,Pablo Picasso,Spanish,1881.0,1973.0,Sothebys,N09963,Decorative Arts,New York,2018-12-06T19:00:00.928000,USD,1.0,123.0,24,24.0,"
-                        <em>Terre de faïence</em> plate, partially painted, 1950, numbered 58/250, incised 'N. 108', 'Edition Picasso' and 'Madoura', with the Edition Picasso and Madoura stamps<br>15 3/8  in.; 39 cm<br>",http://www.sothebys.com/en/auctions/ecatalogue/2018/lady-blue-eyes-property-barbara-frank-sinatra-n09963/lot.24.html,Centaure (A.R. 102),painting,1950.0,15 3/8  in (39 cm),-1.0,-1.0,-1.0,cm,-1.0,0.0,7000.0,10000.0,33862.919087796705
-9,Pablo Picasso,Spanish,1881.0,1973.0,Phillips,NY010818,Post-War & Contemporary,New York,2018-11-14T00:00:00,USD,1.0,153.0,105,5.0,"{'medium': 'ink on paper', 'dimensions': '8 5/8 x 12 1/4 in. (21.9 x 31.1 cm.)'}",https://www.phillips.com/detail/PABLO-PICASSO/NY010818/105,Nu Couche Et Homme Ecrivant (Sleeping Nude And Man Writing),painting,-1.0,8 5/8 x 12 1/4 in. (21.9 x 31.1 cm.),21.9,31.1,-1.0,cm,-1.0,1.0,120000.0,180000.0,87235.17013470203
-12,Pablo Picasso,Spanish,1881.0,1973.0,Sothebys,N09931,Regional Specific,New York,2018-11-13T14:00:00.012000,USD,1.0,359.0,307,166.0,"
-                        Dated <em>19.1.51</em>&nbsp;(on the underside)<br>Partially painted earthenware<br>Height: 6 3/4  in.<br>17.1 cm<br>Executed on January 19, 1951; this work is unique.<br>",http://www.sothebys.com/en/auctions/ecatalogue/2018/impressionist-modern-art-day-sale-n09931/lot.307.html,Tanagra Drapee,decorative arts,1951.0,Height: 6 3/4  in (17.1 cm),6.75,-1.0,-1.0,-1,-1.0,0.0,200000.0,300000.0,300451.8331981875
-16,Pablo Picasso,Spanish,1881.0,1973.0,Sothebys,N09931,Regional Specific,New York,2018-11-13T14:00:00.012000,USD,1.0,359.0,315,174.0,"
-                        Signed&nbsp;<em>Picasso</em> and dated <em>11.5.63.&nbsp;</em>(center left); dated <em>11.5.63.</em> (on the reverse)<br>Oil on canvas<br>25 1/2  by 39 5/8  in.<br>65 by 100 cm<br>Painted on May 11, 1963.&nbsp;<br>",http://www.sothebys.com/en/auctions/ecatalogue/2018/impressionist-modern-art-day-sale-n09931/lot.315.html,Le Peintre Et Son Modele,painting,1963.0,25 1/2  by 39 5/8  in (65 by 100 cm),65.0,100.0,-1.0,cm,-1.0,0.0,1400000.0,1800000.0,1561486.2120268636
-19,Pablo Picasso,Spanish,1881.0,1973.0,Sothebys,N09931,Regional Specific,New York,2018-11-13T14:00:00.012000,USD,1.0,359.0,318,177.0,"
-                        Signed<em> Picasso</em> and dated<em> 3.5.63 III</em> (upper right)<br>Colored crayon and pencil on paper<br>10 3/8  by 14 5/8  in.<br>26.4 by 37.1 cm<br>Executed on May 3, 1963.<br>",http://www.sothebys.com/en/auctions/ecatalogue/2018/impressionist-modern-art-day-sale-n09931/lot.318.html,Bethsabee Et La Lettre De David,color drawing,1963.0,10 3/8  by 14 5/8  in (26.4 by 37.1 cm),26.4,37.1,-1.0,cm,-1.0,0.0,400000.0,600000.0,413766.5831344849
-20,Pablo Picasso,Spanish,1881.0,1973.0,Sothebys,N09934,Decorative Arts,New York,2018-11-13T14:00:00.592000,USD,1.0,25.0,111,11.0,"
-                        Painted and partially glazed ceramic<br>Height: 14 1/2  in.<br>36.8 cm<br>Executed <em>circa</em> 1948; this work is unique.&nbsp;<br>",http://www.sothebys.com/en/auctions/ecatalogue/2018/a-modernist-vision-property-from-the-collection-of-nelson-happy-rockefeller-n09934/lot.111.html,Le Condor,decorative arts,1948.0,Height: 14 1/2  in (36.8 cm),14.5,-1.0,-1.0,-1,-1.0,0.0,500000.0,700000.0,563380.7806313095
-21,Pablo Picasso,Spanish,1881.0,1973.0,Sothebys,N09931,Regional Specific,New York,2018-11-13T14:00:00.012000,USD,1.0,359.0,441,296.0,"
-                        Inscribed&nbsp;<em>A Sebastiá Junyent</em>&nbsp;and signed <em>Picasso&nbsp;</em>(upper center); dated&nbsp;<em>Paris </em><em>Diciembre 1904 </em>and inscribed<em>&nbsp;</em><em>-Mi retrato- </em>(lower left)<br>Pen and ink, ink wash and gouache on paper<br>6 3/4  by 8 1/2  in.<br>17.1 by 21.6 cm<br>Executed in Paris in December 1904.<br>",http://www.sothebys.com/en/auctions/ecatalogue/2018/impressionist-modern-art-day-sale-n09931/lot.441.html,Portrait De L'Artiste Assis (Autoportrait A La Pipe),watercolor,1904.0,6 3/4  by 8 1/2  in (17.1 by 21.6 cm),17.1,21.6,-1.0,cm,-1.0,0.0,300000.0,500000.0,408631.84018592874
-22,Pablo Picasso,Spanish,1881.0,1973.0,Sothebys,N09931,Regional Specific,New York,2018-11-13T14:00:00.012000,USD,1.0,359.0,200,71.0,"
-                        Signed <em>Picasso</em> and dated <em>13.10.69.I</em> (upper right)<br>Pencil on paper<br>19 3/4  by 25 5/8  in.<br>50.2 by 65.2 cm<br>Executed on October 13, 1969.<br>",http://www.sothebys.com/en/auctions/ecatalogue/2018/impressionist-modern-art-day-sale-n09931/lot.200.html,Nu Assis Et Tete,drawing,1969.0,19 3/4  by 25 5/8  in (50.2 by 65.2 cm),50.2,65.2,-1.0,cm,-1.0,0.0,500000.0,700000.0,563380.7806313095
-24,Pablo Picasso,Spanish,1881.0,1973.0,Sothebys,N09931,Regional Specific,New York,2018-11-13T14:00:00.012000,USD,1.0,359.0,305,164.0,"
-                        Painted and partially glazed ceramic<br>Height: 14 1/2  in.<br>36.8 cm<br>Executed in 1948; this work is unique.<br>",http://www.sothebys.com/en/auctions/ecatalogue/2018/impressionist-modern-art-day-sale-n09931/lot.305.html,Femme Drapee,decorative arts,1948.0,Height: 14 1/2  in (36.8 cm),14.5,-1.0,-1.0,-1,-1.0,0.0,300000.0,400000.0,388514.1910952751
-30,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15979,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,221.0,415,166.0,"Pablo Picasso (1881-1973)
+0,Pablo Picasso,Spanish,1881,1973,Sothebys,N09963,Decorative Arts,New York,2018-12-06T19:00:00.928000,USD,1.0,123,13,13,"
+                        The complete book, comprising four lithographs, one printed in colors, 1961, from the edition of unknown size, with&nbsp;text by Jaime Sabartés,&nbsp;on wove paper, bound (as issued), printed by Mourlot, Paris, published by George Braziller, New York, contained in the original cloth-covered boards&nbsp;and dust jacket<br>10 x 12 7/8  x 1 in.; 25.5 x 32.8 x 2.5 cm<br>",http://www.sothebys.com/en/auctions/ecatalogue/2018/lady-blue-eyes-property-barbara-frank-sinatra-n09963/lot.13.html,"Picasso: Toreros (B. 1014-1017; M. 346, 348-350; Cramer Books 113)",print,1961,10 x 12 7/8  x 1 in (25.5 x 32.8 x 2.5 cm),25.5,32.8,2.5,cm,-1,0,1000,1500,33862.91908779671
+1,Pablo Picasso,Spanish,1881,1973,Sothebys,N09963,Decorative Arts,New York,2018-12-06T19:00:00.928000,USD,1.0,123,19,19,"
+                        <em>Terre de faïence&nbsp;</em>plaque, painted in colors and partially glazed, 1968, numbered 35/100, inscribed 'J. 126 B', with the Empreinte Originale de Picasso and Madoura stamps, framed<br>8 5/8  x 8 5/8  in.; 21.8 x 21.8 cm<br>",http://www.sothebys.com/en/auctions/ecatalogue/2018/lady-blue-eyes-property-barbara-frank-sinatra-n09963/lot.19.html,Visage Au Trait Oblique (Alain Ramie 587),painting,1968,8 5/8  x 8 5/8  in (21.8 x 21.8 cm),21.8,21.8,-1.0,cm,-1,0,3000,4000,33862.91908779671
+2,Pablo Picasso,Spanish,1881,1973,Sothebys,N09963,Decorative Arts,New York,2018-12-06T19:00:00.928000,USD,1.0,123,20,20,"
+                        <em>Terre de faïence</em> plaque, painted in colors and partially glazed, 1956, numbered 90/250, inscribed 'K. 120', 'Edition Picasso' and 'Madoura', framed<br>7 7/8  x 7 7/8  in.; 20 x 20 cm<br>",http://www.sothebys.com/en/auctions/ecatalogue/2018/lady-blue-eyes-property-barbara-frank-sinatra-n09963/lot.20.html,Masque (A.R. 311),painting,1956,7 7/8  x 7 7/8  in (20 x 20 cm),20.0,20.0,-1.0,cm,-1,0,6000,8000,33862.91908779671
+3,Pablo Picasso,Spanish,1881,1973,Sothebys,N09963,Decorative Arts,New York,2018-12-06T19:00:00.928000,USD,1.0,123,21,21,"
+                        <em>Terre de faïence&nbsp;</em>plaque, painted in colors and partially glazed, 1956, numbered 100/300, inscribed 'K. 121', 'Edition Picasso' and 'Madoura', framed<br>7 7/8  x 7 7/8  in.; 20.1 x 20.1 cm<br>",http://www.sothebys.com/en/auctions/ecatalogue/2018/lady-blue-eyes-property-barbara-frank-sinatra-n09963/lot.21.html,Masque (A.R. 310),painting,1956,7 7/8  x 7 7/8  in (20.1 x 20.1 cm),20.1,20.1,-1.0,cm,-1,0,6000,8000,33862.91908779671
+4,Pablo Picasso,Spanish,1881,1973,Sothebys,N09963,Decorative Arts,New York,2018-12-06T19:00:00.928000,USD,1.0,123,22,22,"
+                        <em>Terre de faïence</em> plate, painted in colors and partially glazed, 1956, numbered 25/100, with the Empreinte Originale de Picasso and Madoura stamps<br>16 7/8  in.; 42.8 cm<br>",http://www.sothebys.com/en/auctions/ecatalogue/2018/lady-blue-eyes-property-barbara-frank-sinatra-n09963/lot.22.html,Horloge A La Langue (A.R. 327),painting,1956,16 7/8  in (42.8 cm),-1.0,-1.0,-1.0,cm,-1,0,4000,6000,33862.91908779671
+5,Pablo Picasso,Spanish,1881,1973,Sothebys,N09963,Decorative Arts,New York,2018-12-06T19:00:00.928000,USD,1.0,123,23,23,"
+                        <em>Terre de faïence&nbsp;</em>plate, 1965, numbered 16/100, inscribed 'T120', with the Empreinte Originale de Picasso and Madoura stamps<br>10 1/2  in.; 26.8 cm<br>",http://www.sothebys.com/en/auctions/ecatalogue/2018/lady-blue-eyes-property-barbara-frank-sinatra-n09963/lot.23.html,Visage (A.R. 534),painting,1965,10 1/2  in (26.8 cm),-1.0,-1.0,-1.0,cm,-1,0,4000,6000,33862.91908779671
+6,Pablo Picasso,Spanish,1881,1973,Sothebys,N09963,Decorative Arts,New York,2018-12-06T19:00:00.928000,USD,1.0,123,24,24,"
+                        <em>Terre de faïence</em> plate, partially painted, 1950, numbered 58/250, incised 'N. 108', 'Edition Picasso' and 'Madoura', with the Edition Picasso and Madoura stamps<br>15 3/8  in.; 39 cm<br>",http://www.sothebys.com/en/auctions/ecatalogue/2018/lady-blue-eyes-property-barbara-frank-sinatra-n09963/lot.24.html,Centaure (A.R. 102),painting,1950,15 3/8  in (39 cm),-1.0,-1.0,-1.0,cm,-1,0,7000,10000,33862.91908779671
+9,Pablo Picasso,Spanish,1881,1973,Phillips,NY010818,Post-War & Contemporary,New York,2018-11-14T00:00:00,USD,1.0,153,105,5,"{'medium': 'ink on paper', 'dimensions': '8 5/8 x 12 1/4 in. (21.9 x 31.1 cm.)'}",https://www.phillips.com/detail/PABLO-PICASSO/NY010818/105,Nu Couche Et Homme Ecrivant (Sleeping Nude And Man Writing),painting,-1,8 5/8 x 12 1/4 in. (21.9 x 31.1 cm.),21.9,31.1,-1.0,cm,-1,1,120000,180000,87235.17013470203
+12,Pablo Picasso,Spanish,1881,1973,Sothebys,N09931,Regional Specific,New York,2018-11-13T14:00:00.012000,USD,1.0,359,307,166,"
+                        Dated <em>19.1.51</em>&nbsp;(on the underside)<br>Partially painted earthenware<br>Height: 6 3/4  in.<br>17.1 cm<br>Executed on January 19, 1951; this work is unique.<br>",http://www.sothebys.com/en/auctions/ecatalogue/2018/impressionist-modern-art-day-sale-n09931/lot.307.html,Tanagra Drapee,decorative arts,1951,Height: 6 3/4  in (17.1 cm),6.75,-1.0,-1.0,-1,-1,0,200000,300000,300451.8331981875
+16,Pablo Picasso,Spanish,1881,1973,Sothebys,N09931,Regional Specific,New York,2018-11-13T14:00:00.012000,USD,1.0,359,315,174,"
+                        Signed&nbsp;<em>Picasso</em> and dated <em>11.5.63.&nbsp;</em>(center left); dated <em>11.5.63.</em> (on the reverse)<br>Oil on canvas<br>25 1/2  by 39 5/8  in.<br>65 by 100 cm<br>Painted on May 11, 1963.&nbsp;<br>",http://www.sothebys.com/en/auctions/ecatalogue/2018/impressionist-modern-art-day-sale-n09931/lot.315.html,Le Peintre Et Son Modele,painting,1963,25 1/2  by 39 5/8  in (65 by 100 cm),65.0,100.0,-1.0,cm,-1,0,1400000,1800000,1561486.2120268636
+19,Pablo Picasso,Spanish,1881,1973,Sothebys,N09931,Regional Specific,New York,2018-11-13T14:00:00.012000,USD,1.0,359,318,177,"
+                        Signed<em> Picasso</em> and dated<em> 3.5.63 III</em> (upper right)<br>Colored crayon and pencil on paper<br>10 3/8  by 14 5/8  in.<br>26.4 by 37.1 cm<br>Executed on May 3, 1963.<br>",http://www.sothebys.com/en/auctions/ecatalogue/2018/impressionist-modern-art-day-sale-n09931/lot.318.html,Bethsabee Et La Lettre De David,color drawing,1963,10 3/8  by 14 5/8  in (26.4 by 37.1 cm),26.4,37.1,-1.0,cm,-1,0,400000,600000,413766.5831344849
+20,Pablo Picasso,Spanish,1881,1973,Sothebys,N09934,Decorative Arts,New York,2018-11-13T14:00:00.592000,USD,1.0,25,111,11,"
+                        Painted and partially glazed ceramic<br>Height: 14 1/2  in.<br>36.8 cm<br>Executed <em>circa</em> 1948; this work is unique.&nbsp;<br>",http://www.sothebys.com/en/auctions/ecatalogue/2018/a-modernist-vision-property-from-the-collection-of-nelson-happy-rockefeller-n09934/lot.111.html,Le Condor,decorative arts,1948,Height: 14 1/2  in (36.8 cm),14.5,-1.0,-1.0,-1,-1,0,500000,700000,563380.7806313095
+21,Pablo Picasso,Spanish,1881,1973,Sothebys,N09931,Regional Specific,New York,2018-11-13T14:00:00.012000,USD,1.0,359,441,296,"
+                        Inscribed&nbsp;<em>A Sebastiá Junyent</em>&nbsp;and signed <em>Picasso&nbsp;</em>(upper center); dated&nbsp;<em>Paris </em><em>Diciembre 1904 </em>and inscribed<em>&nbsp;</em><em>-Mi retrato- </em>(lower left)<br>Pen and ink, ink wash and gouache on paper<br>6 3/4  by 8 1/2  in.<br>17.1 by 21.6 cm<br>Executed in Paris in December 1904.<br>",http://www.sothebys.com/en/auctions/ecatalogue/2018/impressionist-modern-art-day-sale-n09931/lot.441.html,Portrait De L'Artiste Assis (Autoportrait A La Pipe),watercolor,1904,6 3/4  by 8 1/2  in (17.1 by 21.6 cm),17.1,21.6,-1.0,cm,-1,0,300000,500000,408631.8401859287
+22,Pablo Picasso,Spanish,1881,1973,Sothebys,N09931,Regional Specific,New York,2018-11-13T14:00:00.012000,USD,1.0,359,200,71,"
+                        Signed <em>Picasso</em> and dated <em>13.10.69.I</em> (upper right)<br>Pencil on paper<br>19 3/4  by 25 5/8  in.<br>50.2 by 65.2 cm<br>Executed on October 13, 1969.<br>",http://www.sothebys.com/en/auctions/ecatalogue/2018/impressionist-modern-art-day-sale-n09931/lot.200.html,Nu Assis Et Tete,drawing,1969,19 3/4  by 25 5/8  in (50.2 by 65.2 cm),50.2,65.2,-1.0,cm,-1,0,500000,700000,563380.7806313095
+24,Pablo Picasso,Spanish,1881,1973,Sothebys,N09931,Regional Specific,New York,2018-11-13T14:00:00.012000,USD,1.0,359,305,164,"
+                        Painted and partially glazed ceramic<br>Height: 14 1/2  in.<br>36.8 cm<br>Executed in 1948; this work is unique.<br>",http://www.sothebys.com/en/auctions/ecatalogue/2018/impressionist-modern-art-day-sale-n09931/lot.305.html,Femme Drapee,decorative arts,1948,Height: 14 1/2  in (36.8 cm),14.5,-1.0,-1.0,-1,-1,0,300000,400000,388514.19109527516
+30,Pablo Picasso,Spanish,1881,1973,Christies,15979,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,221,415,166,"Pablo Picasso (1881-1973)
 Centaure
 painted terracotta
 Height: 4 1/8 in. (10.4 cm.)
-Executed circa 1953; unique",https://www.christies.com/lotfinder/sculptures-statues-figures/pablo-picasso-centaure-6169411-details.aspx,Centaure,painting,1953.0,Height: 4 1/8 in (10.4 cm),4.12,-1.0,-1.0,-1,-1.0,0.0,40000.0,60000.0,34904.619514003476
-31,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15979,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,221.0,306,56.0,"Pablo Picasso (1881-1973)
+Executed circa 1953; unique",https://www.christies.com/lotfinder/sculptures-statues-figures/pablo-picasso-centaure-6169411-details.aspx,Centaure,painting,1953,Height: 4 1/8 in (10.4 cm),4.12,-1.0,-1.0,-1,-1,0,40000,60000,34904.619514003476
+31,Pablo Picasso,Spanish,1881,1973,Christies,15979,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,221,306,56,"Pablo Picasso (1881-1973)
 Le hibou gris
 signed and dated 'Picasso 9.2.53.' (on the front of the base)
 painted earthenware
 Height: 13 5/8 in. (34.7 cm.)
-Executed on 9 February 1953; unique",https://www.christies.com/lotfinder/sculptures-statues-figures/pablo-picasso-le-hibou-gris-6169301-details.aspx,Le Hibou Gris,decorative arts,1953.0,Height: 13 5/8 in (34.7 cm),13.62,-1.0,-1.0,-1,-1.0,0.0,1500000.0,2500000.0,2135950.0387936784
-32,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15978,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,114.0,204,77.0,"Pablo Picasso (1881-1973)
+Executed on 9 February 1953; unique",https://www.christies.com/lotfinder/sculptures-statues-figures/pablo-picasso-le-hibou-gris-6169301-details.aspx,Le Hibou Gris,decorative arts,1953,Height: 13 5/8 in (34.7 cm),13.62,-1.0,-1.0,-1,-1,0,1500000,2500000,2135950.038793679
+32,Pablo Picasso,Spanish,1881,1973,Christies,15978,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,114,204,77,"Pablo Picasso (1881-1973)
 Toréador et taureau
 signed, dated and dedicated 'pour B. Geiger son ami Picasso le 12.11.59.' (upper left)
 gouache on paper
 9 1/8 x 13 in. (23.1 x 33.2 cm.)
-Painted on 12 November 1959",https://www.christies.com/lotfinder/drawings-watercolors/pablo-picasso-toreador-et-taureau-6169149-details.aspx,Toreador Et Taureau,watercolor,1959.0,9 1/8 x 13 in (23.1 x 33.2 cm),23.1,33.2,-1.0,cm,-1.0,0.0,70000.0,90000.0,44212.25790192545
-33,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15979,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,221.0,415,108.0,"Pablo Picasso (1881-1973)
+Painted on 12 November 1959",https://www.christies.com/lotfinder/drawings-watercolors/pablo-picasso-toreador-et-taureau-6169149-details.aspx,Toreador Et Taureau,watercolor,1959,9 1/8 x 13 in (23.1 x 33.2 cm),23.1,33.2,-1.0,cm,-1,0,70000,90000,44212.25790192545
+33,Pablo Picasso,Spanish,1881,1973,Christies,15979,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,221,415,108,"Pablo Picasso (1881-1973)
 Centaure
 painted terracotta
 Height: 4 1/8 in. (10.4 cm.)
-Executed circa 1953; unique",https://www.christies.com/lotfinder/sculptures-statues-figures/pablo-picasso-centaure-6169411-details.aspx,Centaure,painting,1953.0,Height: 4 1/8 in (10.4 cm),4.12,-1.0,-1.0,-1,-1.0,0.0,40000.0,60000.0,34904.619514003476
-34,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15979,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,221.0,304,54.0,"Pablo Picasso (1881-1973)
+Executed circa 1953; unique",https://www.christies.com/lotfinder/sculptures-statues-figures/pablo-picasso-centaure-6169411-details.aspx,Centaure,painting,1953,Height: 4 1/8 in (10.4 cm),4.12,-1.0,-1.0,-1,-1,0,40000,60000,34904.619514003476
+34,Pablo Picasso,Spanish,1881,1973,Christies,15979,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,221,304,54,"Pablo Picasso (1881-1973)
 Femme assise
 numbered and stamped with foundry mark '5/10 C. VALSUANI CIRE PERDUE' (on the back)
 bronze with brown patina
 Height: 4 7/8 in. (12.5 cm.)
-Conceived in 1945",https://www.christies.com/lotfinder/sculptures-statues-figures/pablo-picasso-femme-assise-6169299-details.aspx,Femme Assise,sculpture,1945.0,Height: 4 7/8 in (12.5 cm),4.88,-1.0,-1.0,-1,-1.0,0.0,60000.0,80000.0,44212.25790192545
-35,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15978,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,114.0,126,20.0,"Pablo Picasso (1881-1973)
+Conceived in 1945",https://www.christies.com/lotfinder/sculptures-statues-figures/pablo-picasso-femme-assise-6169299-details.aspx,Femme Assise,sculpture,1945,Height: 4 7/8 in (12.5 cm),4.88,-1.0,-1.0,-1,-1,0,60000,80000,44212.25790192545
+35,Pablo Picasso,Spanish,1881,1973,Christies,15978,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,114,126,20,"Pablo Picasso (1881-1973)
 Famille
 signed 'Picasso' (lower left)
 pen and India ink on paper
 10 1/8 x 13 5/8 in. (26 x 34.8 cm.)
-Drawn circa 1920",https://www.christies.com/lotfinder/drawings-watercolors/pablo-picasso-famille-6169071-details.aspx,Famille,drawing,1920.0,10 1/8 x 13 5/8 in (26 x 34.8 cm),26.0,34.8,-1.0,cm,-1.0,0.0,30000.0,50000.0,33862.919087796705
-36,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15978,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,114.0,104,4.0,"Pablo Picasso (1881-1973)
+Drawn circa 1920",https://www.christies.com/lotfinder/drawings-watercolors/pablo-picasso-famille-6169071-details.aspx,Famille,drawing,1920,10 1/8 x 13 5/8 in (26 x 34.8 cm),26.0,34.8,-1.0,cm,-1,0,30000,50000,33862.91908779671
+36,Pablo Picasso,Spanish,1881,1973,Christies,15978,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,114,104,4,"Pablo Picasso (1881-1973)
 Banjo
 signed and dated 'Picasso 26' (lower right)
 pastel and brush and India ink on paper
 12 3/8 x 18 in. (31.4 x 45.7 cm.)
-Executed in 1926",https://www.christies.com/lotfinder/drawings-watercolors/pablo-picasso-banjo-6169049-details.aspx,Banjo,pastel,1926.0,12 3/8 x 18 in (31.4 x 45.7 cm),31.4,45.7,-1.0,cm,-1.0,0.0,150000.0,250000.0,193023.47872998164
-37,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15978,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,114.0,107,7.0,"Pablo Picasso (1881-1973)
+Executed in 1926",https://www.christies.com/lotfinder/drawings-watercolors/pablo-picasso-banjo-6169049-details.aspx,Banjo,pastel,1926,12 3/8 x 18 in (31.4 x 45.7 cm),31.4,45.7,-1.0,cm,-1,0,150000,250000,193023.47872998167
+37,Pablo Picasso,Spanish,1881,1973,Christies,15978,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,114,107,7,"Pablo Picasso (1881-1973)
 Femme endormie et femme accroupie
 signed, dated and numbered 'Picasso 8 mai 47 II' (upper left)
 pen and India ink on paper
 17 3/8 x 25 7/8 in. (44.1 x 65.7 cm.)
-Drawn on 8 May 1947",https://www.christies.com/lotfinder/drawings-watercolors/pablo-picasso-femme-endormie-et-femme-accroup-6169052-details.aspx,Femme Endormie Et Femme Accroupie,drawing,1947.0,17 3/8 x 25 7/8 in (44.1 x 65.7 cm),44.1,65.7,-1.0,cm,-1.0,0.0,150000.0,200000.0,170555.65960738726
-38,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15978,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,114.0,193,67.0,"Pablo Picasso (1881-1973)
+Drawn on 8 May 1947",https://www.christies.com/lotfinder/drawings-watercolors/pablo-picasso-femme-endormie-et-femme-accroup-6169052-details.aspx,Femme Endormie Et Femme Accroupie,drawing,1947,17 3/8 x 25 7/8 in (44.1 x 65.7 cm),44.1,65.7,-1.0,cm,-1,0,150000,200000,170555.6596073873
+38,Pablo Picasso,Spanish,1881,1973,Christies,15978,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,114,193,67,"Pablo Picasso (1881-1973)
 Nu au filet et arlequin
 signed, dated and numbered 'Picasso 16.6.70 II' (lower right); dated and numbered again '16.6.70. I' (on the reverse)
 colored wax crayons and pencil on card
 8 ¼ x 11 1/8 in. (21 x 28.2 cm.)
-Drawn on 16 June 1970",https://www.christies.com/lotfinder/drawings-watercolors/pablo-picasso-nu-au-filet-et-arlequin-6169138-details.aspx,Nu Au Filet Et Arlequin,color drawing,1970.0,11 1/8 in (21 x 28.2 cm),21.0,28.2,-1.0,cm,-1.0,0.0,150000.0,200000.0,170555.65960738726
-39,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15979,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,221.0,306,34.0,"Pablo Picasso (1881-1973)
+Drawn on 16 June 1970",https://www.christies.com/lotfinder/drawings-watercolors/pablo-picasso-nu-au-filet-et-arlequin-6169138-details.aspx,Nu Au Filet Et Arlequin,color drawing,1970,11 1/8 in (21 x 28.2 cm),21.0,28.2,-1.0,cm,-1,0,150000,200000,170555.6596073873
+39,Pablo Picasso,Spanish,1881,1973,Christies,15979,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,221,306,34,"Pablo Picasso (1881-1973)
 Le hibou gris
 signed and dated 'Picasso 9.2.53.' (on the front of the base)
 painted earthenware
 Height: 13 5/8 in. (34.7 cm.)
-Executed on 9 February 1953; unique",https://www.christies.com/lotfinder/sculptures-statues-figures/pablo-picasso-le-hibou-gris-6169301-details.aspx,Le Hibou Gris,decorative arts,1953.0,Height: 13 5/8 in (34.7 cm),13.62,-1.0,-1.0,-1,-1.0,0.0,1500000.0,2500000.0,2135950.0387936784
-40,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15978,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,114.0,202,75.0,"Pablo Picasso (1881-1973)
+Executed on 9 February 1953; unique",https://www.christies.com/lotfinder/sculptures-statues-figures/pablo-picasso-le-hibou-gris-6169301-details.aspx,Le Hibou Gris,decorative arts,1953,Height: 13 5/8 in (34.7 cm),13.62,-1.0,-1.0,-1,-1,0,1500000,2500000,2135950.038793679
+40,Pablo Picasso,Spanish,1881,1973,Christies,15978,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,114,202,75,"Pablo Picasso (1881-1973)
 Oiseau fantastique
 felt-tip pen on paper
 10 ¾ x 8 3/8 in. (27.2 x 21.1 cm.)
-Drawn in 1952",https://www.christies.com/lotfinder/drawings-watercolors/pablo-picasso-oiseau-fantastique-6169147-details.aspx,Oiseau Fantastique,drawing,1952.0,10  3/4 x 8 3/8 in (27.2 x 21.1 cm),27.2,21.1,-1.0,cm,-1.0,0.0,40000.0,60000.0,34904.619514003476
-41,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15978,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,114.0,207,106.0,"Pablo Picasso (1881-1973)
+Drawn in 1952",https://www.christies.com/lotfinder/drawings-watercolors/pablo-picasso-oiseau-fantastique-6169147-details.aspx,Oiseau Fantastique,drawing,1952,10  3/4 x 8 3/8 in (27.2 x 21.1 cm),27.2,21.1,-1.0,cm,-1,0,40000,60000,34904.619514003476
+41,Pablo Picasso,Spanish,1881,1973,Christies,15978,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,114,207,106,"Pablo Picasso (1881-1973)
 Deux personnages
 signed 'Picasso' (upper left) and dated and numbered '20.2.69. IV' (lower right); dated and numbered again '20.2.69. IV' (on the reverse)
 watercolor, colored wax crayons and pencil on paper
 9 5/8 x 12 ¼ in. (24.2 x 31 cm.)
-Executed on 20 February 1969",https://www.christies.com/lotfinder/drawings-watercolors/pablo-picasso-deux-personnages-6169152-details.aspx,Deux Personnages,watercolor,1969.0,24.2 x 31 cm,24.2,31.0,-1.0,cm,-1.0,0.0,60000.0,80000.0,44212.25790192545
-42,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15979,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,221.0,328,49.0,"Pablo Picasso (1881-1973)
+Executed on 20 February 1969",https://www.christies.com/lotfinder/drawings-watercolors/pablo-picasso-deux-personnages-6169152-details.aspx,Deux Personnages,watercolor,1969,24.2 x 31 cm,24.2,31.0,-1.0,cm,-1,0,60000,80000,44212.25790192545
+42,Pablo Picasso,Spanish,1881,1973,Christies,15979,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,221,328,49,"Pablo Picasso (1881-1973)
 Tête soleil
 dated '19.10.56.' (upper left); signed 'Picasso' (on the reverse)
 white earthenware ceramic plaque with colored engobe, pastel and glaze
 12 1/8 x 10 1/8 in. (30.9 x 25.7 cm.)
-Executed on 19 October 1956; unique",https://www.christies.com/lotfinder/sculptures-statues-figures/pablo-picasso-tete-soleil-6169322-details.aspx,Tete Soleil,pastel,1956.0,12 1/8 x 10 1/8 in (30.9 x 25.7 cm),30.9,25.7,-1.0,cm,-1.0,0.0,80000.0,120000.0,50222.476561549425
-43,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15978,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,114.0,207,80.0,"Pablo Picasso (1881-1973)
+Executed on 19 October 1956; unique",https://www.christies.com/lotfinder/sculptures-statues-figures/pablo-picasso-tete-soleil-6169322-details.aspx,Tete Soleil,pastel,1956,12 1/8 x 10 1/8 in (30.9 x 25.7 cm),30.9,25.7,-1.0,cm,-1,0,80000,120000,50222.476561549425
+43,Pablo Picasso,Spanish,1881,1973,Christies,15978,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,114,207,80,"Pablo Picasso (1881-1973)
 Deux personnages
 signed 'Picasso' (upper left) and dated and numbered '20.2.69. IV' (lower right); dated and numbered again '20.2.69. IV' (on the reverse)
 watercolor, colored wax crayons and pencil on paper
 9 5/8 x 12 ¼ in. (24.2 x 31 cm.)
-Executed on 20 February 1969",https://www.christies.com/lotfinder/drawings-watercolors/pablo-picasso-deux-personnages-6169152-details.aspx,Deux Personnages,watercolor,1969.0,24.2 x 31 cm,24.2,31.0,-1.0,cm,-1.0,0.0,60000.0,80000.0,44212.25790192545
-44,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15979,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,221.0,372,78.0,"Pablo Picasso (1881-1973)
+Executed on 20 February 1969",https://www.christies.com/lotfinder/drawings-watercolors/pablo-picasso-deux-personnages-6169152-details.aspx,Deux Personnages,watercolor,1969,24.2 x 31 cm,24.2,31.0,-1.0,cm,-1,0,60000,80000,44212.25790192545
+44,Pablo Picasso,Spanish,1881,1973,Christies,15979,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,221,372,78,"Pablo Picasso (1881-1973)
 Femme debout
 numbered and stamped with foundry mark '10/10 C. VALSUANI CIRE PERDUE' (on the back)
 bronze with brown patina
 Height: 8 ¾ in. (22.1 cm.)
-Conceived in 1945",https://www.christies.com/lotfinder/sculptures-statues-figures/pablo-picasso-femme-debout-6169366-details.aspx,Femme Debout,sculpture,1945.0,Height: 8  3/4 in (22.1 cm),8.0,-1.0,-1.0,-1,-1.0,0.0,80000.0,120000.0,50222.476561549425
-45,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15978,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,114.0,155,40.0,"Pablo Picasso (1881-1973)
+Conceived in 1945",https://www.christies.com/lotfinder/sculptures-statues-figures/pablo-picasso-femme-debout-6169366-details.aspx,Femme Debout,sculpture,1945,Height: 8  3/4 in (22.1 cm),8.0,-1.0,-1.0,-1,-1,0,80000,120000,50222.476561549425
+45,Pablo Picasso,Spanish,1881,1973,Christies,15978,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,114,155,40,"Pablo Picasso (1881-1973)
 Sans titre
 signed 'Picasso' (lower right)
 pen and brush and India ink on paper
 9 ½ x 12 ½ in. (24.1 x 31.7 cm.)
-Executed in 1905",https://www.christies.com/lotfinder/drawings-watercolors/pablo-picasso-sans-titre-6169100-details.aspx,Sans Titre,drawing,1905.0,9  1/2 x 12  1/2 in (24.1 x 31.7 cm),24.1,31.7,-1.0,cm,-1.0,0.0,30000.0,50000.0,33862.919087796705
-46,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15978,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,114.0,212,111.0,"Pablo Picasso (1881-1973)
+Executed in 1905",https://www.christies.com/lotfinder/drawings-watercolors/pablo-picasso-sans-titre-6169100-details.aspx,Sans Titre,drawing,1905,9  1/2 x 12  1/2 in (24.1 x 31.7 cm),24.1,31.7,-1.0,cm,-1,0,30000,50000,33862.91908779671
+46,Pablo Picasso,Spanish,1881,1973,Christies,15978,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,114,212,111,"Pablo Picasso (1881-1973)
 Femme endormie
 signed, dated and numbered 'Picasso 5.9.52. IV' (lower right)
 brush and black ink on paper
 19 7/8 x 25 7/8 in. (50.5 x 65.8 cm.)
-Painted on 5 September 1952",https://www.christies.com/lotfinder/drawings-watercolors/pablo-picasso-femme-endormie-6169157-details.aspx,Femme Endormie,painting,1952.0,19 7/8 x 25 7/8 in (50.5 x 65.8 cm),50.5,65.8,-1.0,cm,-1.0,0.0,150000.0,200000.0,170555.65960738726
-47,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15978,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,114.0,212,85.0,"Pablo Picasso (1881-1973)
+Painted on 5 September 1952",https://www.christies.com/lotfinder/drawings-watercolors/pablo-picasso-femme-endormie-6169157-details.aspx,Femme Endormie,painting,1952,19 7/8 x 25 7/8 in (50.5 x 65.8 cm),50.5,65.8,-1.0,cm,-1,0,150000,200000,170555.6596073873
+47,Pablo Picasso,Spanish,1881,1973,Christies,15978,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,114,212,85,"Pablo Picasso (1881-1973)
 Femme endormie
 signed, dated and numbered 'Picasso 5.9.52. IV' (lower right)
 brush and black ink on paper
 19 7/8 x 25 7/8 in. (50.5 x 65.8 cm.)
-Painted on 5 September 1952",https://www.christies.com/lotfinder/drawings-watercolors/pablo-picasso-femme-endormie-6169157-details.aspx,Femme Endormie,painting,1952.0,19 7/8 x 25 7/8 in (50.5 x 65.8 cm),50.5,65.8,-1.0,cm,-1.0,0.0,150000.0,200000.0,170555.65960738726
-48,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15978,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,114.0,126,26.0,"Pablo Picasso (1881-1973)
+Painted on 5 September 1952",https://www.christies.com/lotfinder/drawings-watercolors/pablo-picasso-femme-endormie-6169157-details.aspx,Femme Endormie,painting,1952,19 7/8 x 25 7/8 in (50.5 x 65.8 cm),50.5,65.8,-1.0,cm,-1,0,150000,200000,170555.6596073873
+48,Pablo Picasso,Spanish,1881,1973,Christies,15978,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,114,126,26,"Pablo Picasso (1881-1973)
 Famille
 signed 'Picasso' (lower left)
 pen and India ink on paper
 10 1/8 x 13 5/8 in. (26 x 34.8 cm.)
-Drawn circa 1920",https://www.christies.com/lotfinder/drawings-watercolors/pablo-picasso-famille-6169071-details.aspx,Famille,drawing,1920.0,10 1/8 x 13 5/8 in (26 x 34.8 cm),26.0,34.8,-1.0,cm,-1.0,0.0,30000.0,50000.0,33862.919087796705
-49,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15978,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,114.0,215,114.0,"Pablo Picasso (1881-1973)
+Drawn circa 1920",https://www.christies.com/lotfinder/drawings-watercolors/pablo-picasso-famille-6169071-details.aspx,Famille,drawing,1920,10 1/8 x 13 5/8 in (26 x 34.8 cm),26.0,34.8,-1.0,cm,-1,0,30000,50000,33862.91908779671
+49,Pablo Picasso,Spanish,1881,1973,Christies,15978,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,114,215,114,"Pablo Picasso (1881-1973)
 Père Noël
 signed, dated and dedicated 'Picasso 24.12.59. pour Gilberte et Serge' (upper left)
 colored wax crayons on paper
 19 ½ x 13 3/8 in. (49.5 x 34 cm.)
-Drawn on 24 December 1959",https://www.christies.com/lotfinder/drawings-watercolors/pablo-picasso-pere-noel-6169160-details.aspx,Pere Noel,color drawing,1959.0,19  1/2 x 13 3/8 in (49.5 x 34 cm),49.5,34.0,-1.0,cm,-1.0,0.0,60000.0,80000.0,44212.25790192545
-50,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15979,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,221.0,363,72.0,"Pablo Picasso (1881-1973)
+Drawn on 24 December 1959",https://www.christies.com/lotfinder/drawings-watercolors/pablo-picasso-pere-noel-6169160-details.aspx,Pere Noel,color drawing,1959,19  1/2 x 13 3/8 in (49.5 x 34 cm),49.5,34.0,-1.0,cm,-1,0,60000,80000,44212.25790192545
+50,Pablo Picasso,Spanish,1881,1973,Christies,15979,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,221,363,72,"Pablo Picasso (1881-1973)
 Femme debout
 numbered and stamped with foundry mark '10/10 C. VALSUANI CIRE PERDUE' (on the top of the base)
 bronze with brown patina
 Height: 7 3/8 in. (18.7 cm.)
-Conceived in 1945",https://www.christies.com/lotfinder/sculptures-statues-figures/pablo-picasso-femme-debout-6169357-details.aspx,Femme Debout,sculpture,1945.0,Height: 7 3/8 in (18.7 cm),7.38,-1.0,-1.0,-1,-1.0,0.0,80000.0,120000.0,50222.476561549425
-51,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15978,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,114.0,213,112.0,"Pablo Picasso (1881-1973)
+Conceived in 1945",https://www.christies.com/lotfinder/sculptures-statues-figures/pablo-picasso-femme-debout-6169357-details.aspx,Femme Debout,sculpture,1945,Height: 7 3/8 in (18.7 cm),7.38,-1.0,-1.0,-1,-1,0,80000,120000,50222.476561549425
+51,Pablo Picasso,Spanish,1881,1973,Christies,15978,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,114,213,112,"Pablo Picasso (1881-1973)
 Empereur
 signed, dated and dedicated 'Picasso le 28.8.69. mon copain Remi' (upper center)
 black felt-tip pen on paper
 11 x 8 1/8 in. (28 x 20.6 cm.)
-Drawn on 28 August 1969",https://www.christies.com/lotfinder/drawings-watercolors/pablo-picasso-empereur-6169158-details.aspx,Empereur,drawing,1969.0,11 x 8 1/8 in (28 x 20.6 cm),28.0,20.6,-1.0,cm,-1.0,0.0,20000.0,30000.0,33862.919087796705
-52,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15979,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,221.0,328,77.0,"Pablo Picasso (1881-1973)
+Drawn on 28 August 1969",https://www.christies.com/lotfinder/drawings-watercolors/pablo-picasso-empereur-6169158-details.aspx,Empereur,drawing,1969,11 x 8 1/8 in (28 x 20.6 cm),28.0,20.6,-1.0,cm,-1,0,20000,30000,33862.91908779671
+52,Pablo Picasso,Spanish,1881,1973,Christies,15979,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,221,328,77,"Pablo Picasso (1881-1973)
 Tête soleil
 dated '19.10.56.' (upper left); signed 'Picasso' (on the reverse)
 white earthenware ceramic plaque with colored engobe, pastel and glaze
 12 1/8 x 10 1/8 in. (30.9 x 25.7 cm.)
-Executed on 19 October 1956; unique",https://www.christies.com/lotfinder/sculptures-statues-figures/pablo-picasso-tete-soleil-6169322-details.aspx,Tete Soleil,pastel,1956.0,12 1/8 x 10 1/8 in (30.9 x 25.7 cm),30.9,25.7,-1.0,cm,-1.0,0.0,80000.0,120000.0,50222.476561549425
-53,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15979,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,221.0,363,112.0,"Pablo Picasso (1881-1973)
+Executed on 19 October 1956; unique",https://www.christies.com/lotfinder/sculptures-statues-figures/pablo-picasso-tete-soleil-6169322-details.aspx,Tete Soleil,pastel,1956,12 1/8 x 10 1/8 in (30.9 x 25.7 cm),30.9,25.7,-1.0,cm,-1,0,80000,120000,50222.476561549425
+53,Pablo Picasso,Spanish,1881,1973,Christies,15979,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,221,363,112,"Pablo Picasso (1881-1973)
 Femme debout
 numbered and stamped with foundry mark '10/10 C. VALSUANI CIRE PERDUE' (on the top of the base)
 bronze with brown patina
 Height: 7 3/8 in. (18.7 cm.)
-Conceived in 1945",https://www.christies.com/lotfinder/sculptures-statues-figures/pablo-picasso-femme-debout-6169357-details.aspx,Femme Debout,sculpture,1945.0,Height: 7 3/8 in (18.7 cm),7.38,-1.0,-1.0,-1,-1.0,0.0,80000.0,120000.0,50222.476561549425
-54,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15978,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,114.0,104,4.0,"Pablo Picasso (1881-1973)
+Conceived in 1945",https://www.christies.com/lotfinder/sculptures-statues-figures/pablo-picasso-femme-debout-6169357-details.aspx,Femme Debout,sculpture,1945,Height: 7 3/8 in (18.7 cm),7.38,-1.0,-1.0,-1,-1,0,80000,120000,50222.476561549425
+54,Pablo Picasso,Spanish,1881,1973,Christies,15978,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,114,104,4,"Pablo Picasso (1881-1973)
 Banjo
 signed and dated 'Picasso 26' (lower right)
 pastel and brush and India ink on paper
 12 3/8 x 18 in. (31.4 x 45.7 cm.)
-Executed in 1926",https://www.christies.com/lotfinder/drawings-watercolors/pablo-picasso-banjo-6169049-details.aspx,Banjo,pastel,1926.0,12 3/8 x 18 in (31.4 x 45.7 cm),31.4,45.7,-1.0,cm,-1.0,0.0,150000.0,250000.0,193023.47872998164
-55,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15978,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,114.0,155,55.0,"Pablo Picasso (1881-1973)
+Executed in 1926",https://www.christies.com/lotfinder/drawings-watercolors/pablo-picasso-banjo-6169049-details.aspx,Banjo,pastel,1926,12 3/8 x 18 in (31.4 x 45.7 cm),31.4,45.7,-1.0,cm,-1,0,150000,250000,193023.47872998167
+55,Pablo Picasso,Spanish,1881,1973,Christies,15978,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,114,155,55,"Pablo Picasso (1881-1973)
 Sans titre
 signed 'Picasso' (lower right)
 pen and brush and India ink on paper
 9 ½ x 12 ½ in. (24.1 x 31.7 cm.)
-Executed in 1905",https://www.christies.com/lotfinder/drawings-watercolors/pablo-picasso-sans-titre-6169100-details.aspx,Sans Titre,drawing,1905.0,9  1/2 x 12  1/2 in (24.1 x 31.7 cm),24.1,31.7,-1.0,cm,-1.0,0.0,30000.0,50000.0,33862.919087796705
-56,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15978,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,114.0,193,92.0,"Pablo Picasso (1881-1973)
+Executed in 1905",https://www.christies.com/lotfinder/drawings-watercolors/pablo-picasso-sans-titre-6169100-details.aspx,Sans Titre,drawing,1905,9  1/2 x 12  1/2 in (24.1 x 31.7 cm),24.1,31.7,-1.0,cm,-1,0,30000,50000,33862.91908779671
+56,Pablo Picasso,Spanish,1881,1973,Christies,15978,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,114,193,92,"Pablo Picasso (1881-1973)
 Nu au filet et arlequin
 signed, dated and numbered 'Picasso 16.6.70 II' (lower right); dated and numbered again '16.6.70. I' (on the reverse)
 colored wax crayons and pencil on card
 8 ¼ x 11 1/8 in. (21 x 28.2 cm.)
-Drawn on 16 June 1970",https://www.christies.com/lotfinder/drawings-watercolors/pablo-picasso-nu-au-filet-et-arlequin-6169138-details.aspx,Nu Au Filet Et Arlequin,color drawing,1970.0,11 1/8 in (21 x 28.2 cm),21.0,28.2,-1.0,cm,-1.0,0.0,150000.0,200000.0,170555.65960738726
-57,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15978,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,114.0,204,103.0,"Pablo Picasso (1881-1973)
+Drawn on 16 June 1970",https://www.christies.com/lotfinder/drawings-watercolors/pablo-picasso-nu-au-filet-et-arlequin-6169138-details.aspx,Nu Au Filet Et Arlequin,color drawing,1970,11 1/8 in (21 x 28.2 cm),21.0,28.2,-1.0,cm,-1,0,150000,200000,170555.6596073873
+57,Pablo Picasso,Spanish,1881,1973,Christies,15978,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,114,204,103,"Pablo Picasso (1881-1973)
 Toréador et taureau
 signed, dated and dedicated 'pour B. Geiger son ami Picasso le 12.11.59.' (upper left)
 gouache on paper
 9 1/8 x 13 in. (23.1 x 33.2 cm.)
-Painted on 12 November 1959",https://www.christies.com/lotfinder/drawings-watercolors/pablo-picasso-toreador-et-taureau-6169149-details.aspx,Toreador Et Taureau,watercolor,1959.0,9 1/8 x 13 in (23.1 x 33.2 cm),23.1,33.2,-1.0,cm,-1.0,0.0,70000.0,90000.0,44212.25790192545
-58,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15978,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,114.0,202,101.0,"Pablo Picasso (1881-1973)
+Painted on 12 November 1959",https://www.christies.com/lotfinder/drawings-watercolors/pablo-picasso-toreador-et-taureau-6169149-details.aspx,Toreador Et Taureau,watercolor,1959,9 1/8 x 13 in (23.1 x 33.2 cm),23.1,33.2,-1.0,cm,-1,0,70000,90000,44212.25790192545
+58,Pablo Picasso,Spanish,1881,1973,Christies,15978,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,114,202,101,"Pablo Picasso (1881-1973)
 Oiseau fantastique
 felt-tip pen on paper
 10 ¾ x 8 3/8 in. (27.2 x 21.1 cm.)
-Drawn in 1952",https://www.christies.com/lotfinder/drawings-watercolors/pablo-picasso-oiseau-fantastique-6169147-details.aspx,Oiseau Fantastique,drawing,1952.0,10  3/4 x 8 3/8 in (27.2 x 21.1 cm),27.2,21.1,-1.0,cm,-1.0,0.0,40000.0,60000.0,34904.619514003476
-59,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15979,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,221.0,414,165.0,"Pablo Picasso (1881-1973)
+Drawn in 1952",https://www.christies.com/lotfinder/drawings-watercolors/pablo-picasso-oiseau-fantastique-6169147-details.aspx,Oiseau Fantastique,drawing,1952,10  3/4 x 8 3/8 in (27.2 x 21.1 cm),27.2,21.1,-1.0,cm,-1,0,40000,60000,34904.619514003476
+59,Pablo Picasso,Spanish,1881,1973,Christies,15979,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,221,414,165,"Pablo Picasso (1881-1973)
 Centaure au verre
 dated '3.1.53' (on the underside)
 painted terracotta
 Height: 3 ¾ in. (9.5 cm.)
-Executed on 3 January 1953; unique",https://www.christies.com/lotfinder/sculptures-statues-figures/pablo-picasso-centaure-au-verre-6169410-details.aspx,Centaure Au Verre,painting,1953.0,Height: 3  3/4 in (9.5 cm),3.0,-1.0,-1.0,-1,-1.0,0.0,40000.0,60000.0,34904.619514003476
-60,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15979,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,221.0,414,107.0,"Pablo Picasso (1881-1973)
+Executed on 3 January 1953; unique",https://www.christies.com/lotfinder/sculptures-statues-figures/pablo-picasso-centaure-au-verre-6169410-details.aspx,Centaure Au Verre,painting,1953,Height: 3  3/4 in (9.5 cm),3.0,-1.0,-1.0,-1,-1,0,40000,60000,34904.619514003476
+60,Pablo Picasso,Spanish,1881,1973,Christies,15979,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,221,414,107,"Pablo Picasso (1881-1973)
 Centaure au verre
 dated '3.1.53' (on the underside)
 painted terracotta
 Height: 3 ¾ in. (9.5 cm.)
-Executed on 3 January 1953; unique",https://www.christies.com/lotfinder/sculptures-statues-figures/pablo-picasso-centaure-au-verre-6169410-details.aspx,Centaure Au Verre,painting,1953.0,Height: 3  3/4 in (9.5 cm),3.0,-1.0,-1.0,-1,-1.0,0.0,40000.0,60000.0,34904.619514003476
-61,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15978,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,114.0,215,87.0,"Pablo Picasso (1881-1973)
+Executed on 3 January 1953; unique",https://www.christies.com/lotfinder/sculptures-statues-figures/pablo-picasso-centaure-au-verre-6169410-details.aspx,Centaure Au Verre,painting,1953,Height: 3  3/4 in (9.5 cm),3.0,-1.0,-1.0,-1,-1,0,40000,60000,34904.619514003476
+61,Pablo Picasso,Spanish,1881,1973,Christies,15978,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,114,215,87,"Pablo Picasso (1881-1973)
 Père Noël
 signed, dated and dedicated 'Picasso 24.12.59. pour Gilberte et Serge' (upper left)
 colored wax crayons on paper
 19 ½ x 13 3/8 in. (49.5 x 34 cm.)
-Drawn on 24 December 1959",https://www.christies.com/lotfinder/drawings-watercolors/pablo-picasso-pere-noel-6169160-details.aspx,Pere Noel,color drawing,1959.0,19  1/2 x 13 3/8 in (49.5 x 34 cm),49.5,34.0,-1.0,cm,-1.0,0.0,60000.0,80000.0,44212.25790192545
-62,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15979,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,221.0,372,121.0,"Pablo Picasso (1881-1973)
+Drawn on 24 December 1959",https://www.christies.com/lotfinder/drawings-watercolors/pablo-picasso-pere-noel-6169160-details.aspx,Pere Noel,color drawing,1959,19  1/2 x 13 3/8 in (49.5 x 34 cm),49.5,34.0,-1.0,cm,-1,0,60000,80000,44212.25790192545
+62,Pablo Picasso,Spanish,1881,1973,Christies,15979,Impressionist & Modern,New York,2018-11-12T00:00:00,USD,1.0,221,372,121,"Pablo Picasso (1881-1973)
 Femme debout
 numbered and stamped with foundry mark '10/10 C. VALSUANI CIRE PERDUE' (on the back)
 bronze with brown patina
 Height: 8 ¾ in. (22.1 cm.)
-Conceived in 1945",https://www.christies.com/lotfinder/sculptures-statues-figures/pablo-picasso-femme-debout-6169366-details.aspx,Femme Debout,sculpture,1945.0,Height: 8  3/4 in (22.1 cm),8.0,-1.0,-1.0,-1,-1.0,0.0,80000.0,120000.0,50222.476561549425
-63,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15977,Impressionist & Modern,New York,2018-11-11T00:00:00,USD,1.0,61.0,51A,51.0,"Pablo Picasso (1881-1973)
+Conceived in 1945",https://www.christies.com/lotfinder/sculptures-statues-figures/pablo-picasso-femme-debout-6169366-details.aspx,Femme Debout,sculpture,1945,Height: 8  3/4 in (22.1 cm),8.0,-1.0,-1.0,-1,-1,0,80000,120000,50222.476561549425
+63,Pablo Picasso,Spanish,1881,1973,Christies,15977,Impressionist & Modern,New York,2018-11-11T00:00:00,USD,1.0,61,51A,51,"Pablo Picasso (1881-1973)
 Le Fou
 signed 'PICASSO' (on the back)
 bronze with dark brown patina
 Height: 16 ¼ in. (41 cm.)
-Conceived in 1905 and cast by 1939",https://www.christies.com/lotfinder/sculptures-statues-figures/pablo-picasso-le-fou-6169517-details.aspx,Le Fou,sculpture,1939.0,Height: 16  1/4 in (41 cm),16.0,-1.0,-1.0,-1,-1.0,0.0,900000.0,1200000.0,1033776.0171891291
-64,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15977,Impressionist & Modern,New York,2018-11-11T00:00:00,USD,1.0,61.0,42A,35.0,"Pablo Picasso (1881-1973)
+Conceived in 1905 and cast by 1939",https://www.christies.com/lotfinder/sculptures-statues-figures/pablo-picasso-le-fou-6169517-details.aspx,Le Fou,sculpture,1939,Height: 16  1/4 in (41 cm),16.0,-1.0,-1.0,-1,-1,0,900000,1200000,1033776.0171891291
+64,Pablo Picasso,Spanish,1881,1973,Christies,15977,Impressionist & Modern,New York,2018-11-11T00:00:00,USD,1.0,61,42A,35,"Pablo Picasso (1881-1973)
 Tête de femme
 signed 'Picasso' (upper left); dated '26 mai 52' (on the reverse)
 oil on canvas
 21 ¾ x 18 ¼ in. (55.1 x 46.2 cm.)
-Painted in Vallauris, 26 May 1952",https://www.christies.com/lotfinder/paintings/pablo-picasso-tete-de-femme-6169508-details.aspx,Tete De Femme,painting,1952.0,21  3/4 x 18  1/4 in (55.1 x 46.2 cm),55.1,46.2,-1.0,cm,-1.0,0.0,2500000.0,4500000.0,3932081.1308140126
-65,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15977,Impressionist & Modern,New York,2018-11-11T00:00:00,USD,1.0,61.0,1A,1.0,"Pablo Picasso (1881-1973)
+Painted in Vallauris, 26 May 1952",https://www.christies.com/lotfinder/paintings/pablo-picasso-tete-de-femme-6169508-details.aspx,Tete De Femme,painting,1952,21  3/4 x 18  1/4 in (55.1 x 46.2 cm),55.1,46.2,-1.0,cm,-1,0,2500000,4500000,3932081.130814011
+65,Pablo Picasso,Spanish,1881,1973,Christies,15977,Impressionist & Modern,New York,2018-11-11T00:00:00,USD,1.0,61,1A,1,"Pablo Picasso (1881-1973)
 Femme assise (Françoise)
 dated '19.3.53.' (upper right)
 oil on canvas
 8 ¾ x 6 3/8 in. (22.2 x 16.4 cm.)
-Painted on 19 March 1953",https://www.christies.com/lotfinder/paintings/pablo-picasso-femme-assise-6169467-details.aspx,Femme Assise (Francoise),painting,1953.0,8  3/4 x 6 3/8 in (22.2 x 16.4 cm),22.2,16.4,-1.0,cm,-1.0,0.0,800000.0,1200000.0,1033776.0171891291
-66,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15977,Impressionist & Modern,New York,2018-11-11T00:00:00,USD,1.0,61.0,5A,5.0,"Pablo Picasso (1881-1973)
+Painted on 19 March 1953",https://www.christies.com/lotfinder/paintings/pablo-picasso-femme-assise-6169467-details.aspx,Femme Assise (Francoise),painting,1953,8  3/4 x 6 3/8 in (22.2 x 16.4 cm),22.2,16.4,-1.0,cm,-1,0,800000,1200000,1033776.0171891291
+66,Pablo Picasso,Spanish,1881,1973,Christies,15977,Impressionist & Modern,New York,2018-11-11T00:00:00,USD,1.0,61,5A,5,"Pablo Picasso (1881-1973)
 Portrait de Françoise Gilot
 dated '26.12.48' (on the reverse) and dated again '2.5.47.' (on the stretcher)
 oil on canvas
 25 5/8 x 18 1/8 in. (65 x 45.9 cm.)
-Painted 2 May 1947—26 December 1948",https://www.christies.com/lotfinder/paintings/pablo-picasso-portrait-de-francoise-gilot-6169471-details.aspx,Portrait De Francoise Gilot,painting,1948.0,25 5/8 x 18 1/8 in (65 x 45.9 cm),65.0,45.9,-1.0,cm,-1.0,0.0,3000000.0,5000000.0,4041889.530271944
-67,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15977,Impressionist & Modern,New York,2018-11-11T00:00:00,USD,1.0,61.0,23A,23.0,"Pablo Picasso (1881-1973)
+Painted 2 May 1947—26 December 1948",https://www.christies.com/lotfinder/paintings/pablo-picasso-portrait-de-francoise-gilot-6169471-details.aspx,Portrait De Francoise Gilot,painting,1948,25 5/8 x 18 1/8 in (65 x 45.9 cm),65.0,45.9,-1.0,cm,-1,0,3000000,5000000,4041889.530271944
+67,Pablo Picasso,Spanish,1881,1973,Christies,15977,Impressionist & Modern,New York,2018-11-11T00:00:00,USD,1.0,61,23A,23,"Pablo Picasso (1881-1973)
 Mandoline sur une table
 signed 'Picasso' (lower right)
 oil on canvas
 32 3/8 x 39 ½ in. (82.2 x 100.4 cm.)
-Painted in 1922",https://www.christies.com/lotfinder/paintings/pablo-picasso-mandoline-sur-une-table-6169489-details.aspx,Mandoline Sur Une Table,painting,1922.0,32 3/8 x 39  1/2 in (82.2 x 100.4 cm),82.2,100.4,-1.0,cm,-1.0,0.0,4000000.0,6000000.0,4726876.692133583
-68,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15977,Impressionist & Modern,New York,2018-11-11T00:00:00,USD,1.0,61.0,20A,20.0,"Pablo Picasso (1881-1973)
+Painted in 1922",https://www.christies.com/lotfinder/paintings/pablo-picasso-mandoline-sur-une-table-6169489-details.aspx,Mandoline Sur Une Table,painting,1922,32 3/8 x 39  1/2 in (82.2 x 100.4 cm),82.2,100.4,-1.0,cm,-1,0,4000000,6000000,4726876.692133584
+68,Pablo Picasso,Spanish,1881,1973,Christies,15977,Impressionist & Modern,New York,2018-11-11T00:00:00,USD,1.0,61,20A,20,"Pablo Picasso (1881-1973)
 Buste de femme au voile bleu
 dated ‘28-XI-24’ (on the stretcher)
 oil on canvas
 24 x 19 ¾ in. (61 x 50.1 cm.)
-Painted on 28 November 1924",https://www.christies.com/lotfinder/paintings/pablo-picasso-buste-de-femme-au-voile-6169486-details.aspx,Buste De Femme Au Voile Bleu,painting,1924.0,24 x 19  3/4 in (61 x 50.1 cm),61.0,50.1,-1.0,cm,-1.0,0.0,8000000.0,12000000.0,10311103.49929225
-69,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15977,Impressionist & Modern,New York,2018-11-11T00:00:00,USD,1.0,61.0,15A,14.0,"Pablo Picasso (1881-1973)
+Painted on 28 November 1924",https://www.christies.com/lotfinder/paintings/pablo-picasso-buste-de-femme-au-voile-6169486-details.aspx,Buste De Femme Au Voile Bleu,painting,1924,24 x 19  3/4 in (61 x 50.1 cm),61.0,50.1,-1.0,cm,-1,0,8000000,12000000,10311103.49929225
+69,Pablo Picasso,Spanish,1881,1973,Christies,15977,Impressionist & Modern,New York,2018-11-11T00:00:00,USD,1.0,61,15A,14,"Pablo Picasso (1881-1973)
 Buste de femme nue (Tête de profil)
 signed 'Picasso' (upper left); dated and numbered '15.5.63.II' (on the reverse)
 oil on canvas
 36 1/8 x 23 5/8 in. (92.8 x 59.9 cm.)
-Painted on 15 May 1963",https://www.christies.com/lotfinder/paintings/pablo-picasso-buste-de-femme-nue-6169481-details.aspx,Buste De Femme Nue (Tete De Profil),painting,1963.0,36 1/8 x 23 5/8 in (92.8 x 59.9 cm),92.8,59.9,-1.0,cm,-1.0,0.0,5000000.0,8000000.0,7494868.251420244
-70,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15977,Impressionist & Modern,New York,2018-11-11T00:00:00,USD,1.0,61.0,58A,49.0,"Pablo Picasso (1881-1973)
+Painted on 15 May 1963",https://www.christies.com/lotfinder/paintings/pablo-picasso-buste-de-femme-nue-6169481-details.aspx,Buste De Femme Nue (Tete De Profil),painting,1963,36 1/8 x 23 5/8 in (92.8 x 59.9 cm),92.8,59.9,-1.0,cm,-1,0,5000000,8000000,7494868.251420244
+70,Pablo Picasso,Spanish,1881,1973,Christies,15977,Impressionist & Modern,New York,2018-11-11T00:00:00,USD,1.0,61,58A,49,"Pablo Picasso (1881-1973)
 Nu les bras croisés
 dated twice '13.2.60. 18.2.60' (on the reverse)
 oil on canvas
 39 3/8 x 31 7/8 (100.2 x 80.8 cm.)
-Painted on 18 February 1960",https://www.christies.com/lotfinder/paintings/pablo-picasso-nu-les-bras-croises-6169524-details.aspx,Nu Les Bras Croises,painting,1960.0,100.2 x 80.8 cm,100.2,80.8,-1.0,cm,-1.0,0.0,4000000.0,6000000.0,4686400.714642083
-71,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15977,Impressionist & Modern,New York,2018-11-11T00:00:00,USD,1.0,61.0,42A,42.0,"Pablo Picasso (1881-1973)
+Painted on 18 February 1960",https://www.christies.com/lotfinder/paintings/pablo-picasso-nu-les-bras-croises-6169524-details.aspx,Nu Les Bras Croises,painting,1960,100.2 x 80.8 cm,100.2,80.8,-1.0,cm,-1,0,4000000,6000000,4686400.714642083
+71,Pablo Picasso,Spanish,1881,1973,Christies,15977,Impressionist & Modern,New York,2018-11-11T00:00:00,USD,1.0,61,42A,42,"Pablo Picasso (1881-1973)
 Tête de femme
 signed 'Picasso' (upper left); dated '26 mai 52' (on the reverse)
 oil on canvas
 21 ¾ x 18 ¼ in. (55.1 x 46.2 cm.)
-Painted in Vallauris, 26 May 1952",https://www.christies.com/lotfinder/paintings/pablo-picasso-tete-de-femme-6169508-details.aspx,Tete De Femme,painting,1952.0,21  3/4 x 18  1/4 in (55.1 x 46.2 cm),55.1,46.2,-1.0,cm,-1.0,0.0,2500000.0,4500000.0,3932081.1308140126
-72,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15977,Impressionist & Modern,New York,2018-11-11T00:00:00,USD,1.0,61.0,8A,8.0,"Pablo Picasso (1881-1973)
+Painted in Vallauris, 26 May 1952",https://www.christies.com/lotfinder/paintings/pablo-picasso-tete-de-femme-6169508-details.aspx,Tete De Femme,painting,1952,21  3/4 x 18  1/4 in (55.1 x 46.2 cm),55.1,46.2,-1.0,cm,-1,0,2500000,4500000,3932081.130814011
+72,Pablo Picasso,Spanish,1881,1973,Christies,15977,Impressionist & Modern,New York,2018-11-11T00:00:00,USD,1.0,61,8A,8,"Pablo Picasso (1881-1973)
 Femme accoudée
 signed and dated ‘Picasso 21’ (lower right)
 pastel on paper
 41 ¼ x 29 5/8 in. (104.7 x 75 cm.)
-Executed in 1921",https://www.christies.com/lotfinder/paintings/pablo-picasso-femme-accoudee-6169474-details.aspx,Femme Accoudee,pastel,1921.0,41  1/4 x 29 5/8 in (104.7 x 75 cm),104.7,75.0,-1.0,cm,-1.0,0.0,10000000.0,15000000.0,14358648.010027707
-73,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15977,Impressionist & Modern,New York,2018-11-11T00:00:00,USD,1.0,61.0,25A,25.0,"Pablo Picasso (1881-1973)
+Executed in 1921",https://www.christies.com/lotfinder/paintings/pablo-picasso-femme-accoudee-6169474-details.aspx,Femme Accoudee,pastel,1921,41  1/4 x 29 5/8 in (104.7 x 75 cm),104.7,75.0,-1.0,cm,-1,0,10000000,15000000,14358648.010027707
+73,Pablo Picasso,Spanish,1881,1973,Christies,15977,Impressionist & Modern,New York,2018-11-11T00:00:00,USD,1.0,61,25A,25,"Pablo Picasso (1881-1973)
 Les Saltimbanques
 signed and dated 'Picasso 1904' (lower right)
 gouache, watercolor and pen and black ink on paper
 14 ½ x 10 ½ in. (37.8 x 26.5 cm.)
-Executed in 1904",https://www.christies.com/lotfinder/paintings/pablo-picasso-les-saltimbanques-6169491-details.aspx,Les Saltimbanques,watercolor,1904.0,14  1/2 x 10  1/2 in (37.8 x 26.5 cm),37.8,26.5,-1.0,cm,-1.0,0.0,1000000.0,1500000.0,1387834.9473723415
-74,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15977,Impressionist & Modern,New York,2018-11-11T00:00:00,USD,1.0,61.0,25A,23.0,"Pablo Picasso (1881-1973)
+Executed in 1904",https://www.christies.com/lotfinder/paintings/pablo-picasso-les-saltimbanques-6169491-details.aspx,Les Saltimbanques,watercolor,1904,14  1/2 x 10  1/2 in (37.8 x 26.5 cm),37.8,26.5,-1.0,cm,-1,0,1000000,1500000,1387834.9473723415
+74,Pablo Picasso,Spanish,1881,1973,Christies,15977,Impressionist & Modern,New York,2018-11-11T00:00:00,USD,1.0,61,25A,23,"Pablo Picasso (1881-1973)
 Les Saltimbanques
 signed and dated 'Picasso 1904' (lower right)
 gouache, watercolor and pen and black ink on paper
 14 ½ x 10 ½ in. (37.8 x 26.5 cm.)
-Executed in 1904",https://www.christies.com/lotfinder/paintings/pablo-picasso-les-saltimbanques-6169491-details.aspx,Les Saltimbanques,watercolor,1904.0,14  1/2 x 10  1/2 in (37.8 x 26.5 cm),37.8,26.5,-1.0,cm,-1.0,0.0,1000000.0,1500000.0,1387834.9473723415
-75,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15977,Impressionist & Modern,New York,2018-11-11T00:00:00,USD,1.0,61.0,3A,3.0,"Pablo Picasso (1881-1973)
+Executed in 1904",https://www.christies.com/lotfinder/paintings/pablo-picasso-les-saltimbanques-6169491-details.aspx,Les Saltimbanques,watercolor,1904,14  1/2 x 10  1/2 in (37.8 x 26.5 cm),37.8,26.5,-1.0,cm,-1,0,1000000,1500000,1387834.9473723415
+75,Pablo Picasso,Spanish,1881,1973,Christies,15977,Impressionist & Modern,New York,2018-11-11T00:00:00,USD,1.0,61,3A,3,"Pablo Picasso (1881-1973)
 Tête d'homme
 inscribed and dated 'Boisgeloup 10 juillet XXXIV' (upper right)
 pencil on paper
 20 1/8 x 13 ½ in. (51.2 x 34.2 cm.)
-Drawn in Boisgeloup on 10 July 1934",https://www.christies.com/lotfinder/drawings-watercolors/pablo-picasso-tete-dhomme-6169469-details.aspx,Tete D'Homme,drawing,1934.0,20 1/8 x 13  1/2 in (51.2 x 34.2 cm),51.2,34.2,-1.0,cm,-1.0,0.0,500000.0,700000.0,563380.7806313095
-76,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15977,Impressionist & Modern,New York,2018-11-11T00:00:00,USD,1.0,61.0,51A,42.0,"Pablo Picasso (1881-1973)
+Drawn in Boisgeloup on 10 July 1934",https://www.christies.com/lotfinder/drawings-watercolors/pablo-picasso-tete-dhomme-6169469-details.aspx,Tete D'Homme,drawing,1934,20 1/8 x 13  1/2 in (51.2 x 34.2 cm),51.2,34.2,-1.0,cm,-1,0,500000,700000,563380.7806313095
+76,Pablo Picasso,Spanish,1881,1973,Christies,15977,Impressionist & Modern,New York,2018-11-11T00:00:00,USD,1.0,61,51A,42,"Pablo Picasso (1881-1973)
 Le Fou
 signed 'PICASSO' (on the back)
 bronze with dark brown patina
 Height: 16 ¼ in. (41 cm.)
-Conceived in 1905 and cast by 1939",https://www.christies.com/lotfinder/sculptures-statues-figures/pablo-picasso-le-fou-6169517-details.aspx,Le Fou,sculpture,1939.0,Height: 16  1/4 in (41 cm),16.0,-1.0,-1.0,-1,-1.0,0.0,900000.0,1200000.0,1033776.0171891291
-77,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15977,Impressionist & Modern,New York,2018-11-11T00:00:00,USD,1.0,61.0,26A,26.0,"Pablo Picasso (1881-1973)
+Conceived in 1905 and cast by 1939",https://www.christies.com/lotfinder/sculptures-statues-figures/pablo-picasso-le-fou-6169517-details.aspx,Le Fou,sculpture,1939,Height: 16  1/4 in (41 cm),16.0,-1.0,-1.0,-1,-1,0,900000,1200000,1033776.0171891291
+77,Pablo Picasso,Spanish,1881,1973,Christies,15977,Impressionist & Modern,New York,2018-11-11T00:00:00,USD,1.0,61,26A,26,"Pablo Picasso (1881-1973)
 Femme au béret orange et au col de fourrure (Marie-Thérèse)
 dated '4 D 37' (upper right)
 oil on canvas
 24 1/8 x 18 1/8 in. (61.2 x 46.1 cm.)
-Painted on 4 December 1937",https://www.christies.com/lotfinder/paintings/pablo-picasso-femme-au-beret-orange-et-6169492-details.aspx,Femme Au Beret Orange Et Au Col De Fourrure (Marie-Therese),painting,1937.0,24 1/8 x 18 1/8 in (61.2 x 46.1 cm),61.2,46.1,-1.0,cm,-1.0,0.0,15000000.0,20000000.0,17565500.589565232
-78,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15977,Impressionist & Modern,New York,2018-11-11T00:00:00,USD,1.0,61.0,22A,20.0,"Pablo Picasso (1881-1973)
+Painted on 4 December 1937",https://www.christies.com/lotfinder/paintings/pablo-picasso-femme-au-beret-orange-et-6169492-details.aspx,Femme Au Beret Orange Et Au Col De Fourrure (Marie-Therese),painting,1937,24 1/8 x 18 1/8 in (61.2 x 46.1 cm),61.2,46.1,-1.0,cm,-1,0,15000000,20000000,17565500.589565232
+78,Pablo Picasso,Spanish,1881,1973,Christies,15977,Impressionist & Modern,New York,2018-11-11T00:00:00,USD,1.0,61,22A,20,"Pablo Picasso (1881-1973)
 La Lampe
 dated '21-I-XXXI 8-VI-XXXI-' (on the stretcher)
 oil on canvas
 63 7/8 x 51 ¼ in. (162.5 x 130.4 cm.)
-Painted in Boisgeloup, 21 January-8 June 1931",https://www.christies.com/lotfinder/paintings/pablo-picasso-la-lampe-6169488-details.aspx,La Lampe,painting,1931.0,63 7/8 x 51  1/4 in (162.5 x 130.4 cm),162.5,130.4,-1.0,cm,-1.0,0.0,25000000.0,35000000.0,27138004.87991722
-79,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15977,Impressionist & Modern,New York,2018-11-11T00:00:00,USD,1.0,61.0,43A,43.0,"Pablo Picasso (1881-1973)
+Painted in Boisgeloup, 21 January-8 June 1931",https://www.christies.com/lotfinder/paintings/pablo-picasso-la-lampe-6169488-details.aspx,La Lampe,painting,1931,63 7/8 x 51  1/4 in (162.5 x 130.4 cm),162.5,130.4,-1.0,cm,-1,0,25000000,35000000,27138004.879917216
+79,Pablo Picasso,Spanish,1881,1973,Christies,15977,Impressionist & Modern,New York,2018-11-11T00:00:00,USD,1.0,61,43A,43,"Pablo Picasso (1881-1973)
 Le Compotier
 signed 'Picasso' (lower left)
 Ripolin on paper laid down on canvas
 20 1/8 x 26 in. (51.2 x 66.1 cm.)
-Painted in 1946",https://www.christies.com/lotfinder/paintings/pablo-picasso-le-compotier-6169509-details.aspx,Le Compotier,painting,1946.0,20 1/8 x 26 in (51.2 x 66.1 cm),51.2,66.1,-1.0,cm,-1.0,0.0,1400000.0,1800000.0,1557154.8367200054
-80,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15977,Impressionist & Modern,New York,2018-11-11T00:00:00,USD,1.0,61.0,58A,58.0,"Pablo Picasso (1881-1973)
+Painted in 1946",https://www.christies.com/lotfinder/paintings/pablo-picasso-le-compotier-6169509-details.aspx,Le Compotier,painting,1946,20 1/8 x 26 in (51.2 x 66.1 cm),51.2,66.1,-1.0,cm,-1,0,1400000,1800000,1557154.8367200054
+80,Pablo Picasso,Spanish,1881,1973,Christies,15977,Impressionist & Modern,New York,2018-11-11T00:00:00,USD,1.0,61,58A,58,"Pablo Picasso (1881-1973)
 Nu les bras croisés
 dated twice '13.2.60. 18.2.60' (on the reverse)
 oil on canvas
 39 3/8 x 31 7/8 (100.2 x 80.8 cm.)
-Painted on 18 February 1960",https://www.christies.com/lotfinder/paintings/pablo-picasso-nu-les-bras-croises-6169524-details.aspx,Nu Les Bras Croises,painting,1960.0,100.2 x 80.8 cm,100.2,80.8,-1.0,cm,-1.0,0.0,4000000.0,6000000.0,4686400.714642083
-81,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15977,Impressionist & Modern,New York,2018-11-11T00:00:00,USD,1.0,61.0,1A,1.0,"Pablo Picasso (1881-1973)
+Painted on 18 February 1960",https://www.christies.com/lotfinder/paintings/pablo-picasso-nu-les-bras-croises-6169524-details.aspx,Nu Les Bras Croises,painting,1960,100.2 x 80.8 cm,100.2,80.8,-1.0,cm,-1,0,4000000,6000000,4686400.714642083
+81,Pablo Picasso,Spanish,1881,1973,Christies,15977,Impressionist & Modern,New York,2018-11-11T00:00:00,USD,1.0,61,1A,1,"Pablo Picasso (1881-1973)
 Femme assise (Françoise)
 dated '19.3.53.' (upper right)
 oil on canvas
 8 ¾ x 6 3/8 in. (22.2 x 16.4 cm.)
-Painted on 19 March 1953",https://www.christies.com/lotfinder/paintings/pablo-picasso-femme-assise-6169467-details.aspx,Femme Assise (Francoise),painting,1953.0,8  3/4 x 6 3/8 in (22.2 x 16.4 cm),22.2,16.4,-1.0,cm,-1.0,0.0,800000.0,1200000.0,1033776.0171891291
-82,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15977,Impressionist & Modern,New York,2018-11-11T00:00:00,USD,1.0,61.0,23A,21.0,"Pablo Picasso (1881-1973)
+Painted on 19 March 1953",https://www.christies.com/lotfinder/paintings/pablo-picasso-femme-assise-6169467-details.aspx,Femme Assise (Francoise),painting,1953,8  3/4 x 6 3/8 in (22.2 x 16.4 cm),22.2,16.4,-1.0,cm,-1,0,800000,1200000,1033776.0171891291
+82,Pablo Picasso,Spanish,1881,1973,Christies,15977,Impressionist & Modern,New York,2018-11-11T00:00:00,USD,1.0,61,23A,21,"Pablo Picasso (1881-1973)
 Mandoline sur une table
 signed 'Picasso' (lower right)
 oil on canvas
 32 3/8 x 39 ½ in. (82.2 x 100.4 cm.)
-Painted in 1922",https://www.christies.com/lotfinder/paintings/pablo-picasso-mandoline-sur-une-table-6169489-details.aspx,Mandoline Sur Une Table,painting,1922.0,32 3/8 x 39  1/2 in (82.2 x 100.4 cm),82.2,100.4,-1.0,cm,-1.0,0.0,4000000.0,6000000.0,4726876.692133583
-83,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15977,Impressionist & Modern,New York,2018-11-11T00:00:00,USD,1.0,61.0,22A,22.0,"Pablo Picasso (1881-1973)
+Painted in 1922",https://www.christies.com/lotfinder/paintings/pablo-picasso-mandoline-sur-une-table-6169489-details.aspx,Mandoline Sur Une Table,painting,1922,32 3/8 x 39  1/2 in (82.2 x 100.4 cm),82.2,100.4,-1.0,cm,-1,0,4000000,6000000,4726876.692133584
+83,Pablo Picasso,Spanish,1881,1973,Christies,15977,Impressionist & Modern,New York,2018-11-11T00:00:00,USD,1.0,61,22A,22,"Pablo Picasso (1881-1973)
 La Lampe
 dated '21-I-XXXI 8-VI-XXXI-' (on the stretcher)
 oil on canvas
 63 7/8 x 51 ¼ in. (162.5 x 130.4 cm.)
-Painted in Boisgeloup, 21 January-8 June 1931",https://www.christies.com/lotfinder/paintings/pablo-picasso-la-lampe-6169488-details.aspx,La Lampe,painting,1931.0,63 7/8 x 51  1/4 in (162.5 x 130.4 cm),162.5,130.4,-1.0,cm,-1.0,0.0,25000000.0,35000000.0,27138004.87991722
-84,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15977,Impressionist & Modern,New York,2018-11-11T00:00:00,USD,1.0,61.0,3A,3.0,"Pablo Picasso (1881-1973)
+Painted in Boisgeloup, 21 January-8 June 1931",https://www.christies.com/lotfinder/paintings/pablo-picasso-la-lampe-6169488-details.aspx,La Lampe,painting,1931,63 7/8 x 51  1/4 in (162.5 x 130.4 cm),162.5,130.4,-1.0,cm,-1,0,25000000,35000000,27138004.879917216
+84,Pablo Picasso,Spanish,1881,1973,Christies,15977,Impressionist & Modern,New York,2018-11-11T00:00:00,USD,1.0,61,3A,3,"Pablo Picasso (1881-1973)
 Tête d'homme
 inscribed and dated 'Boisgeloup 10 juillet XXXIV' (upper right)
 pencil on paper
 20 1/8 x 13 ½ in. (51.2 x 34.2 cm.)
-Drawn in Boisgeloup on 10 July 1934",https://www.christies.com/lotfinder/drawings-watercolors/pablo-picasso-tete-dhomme-6169469-details.aspx,Tete D'Homme,drawing,1934.0,20 1/8 x 13  1/2 in (51.2 x 34.2 cm),51.2,34.2,-1.0,cm,-1.0,0.0,500000.0,700000.0,563380.7806313095
-85,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15977,Impressionist & Modern,New York,2018-11-11T00:00:00,USD,1.0,61.0,15A,15.0,"Pablo Picasso (1881-1973)
+Drawn in Boisgeloup on 10 July 1934",https://www.christies.com/lotfinder/drawings-watercolors/pablo-picasso-tete-dhomme-6169469-details.aspx,Tete D'Homme,drawing,1934,20 1/8 x 13  1/2 in (51.2 x 34.2 cm),51.2,34.2,-1.0,cm,-1,0,500000,700000,563380.7806313095
+85,Pablo Picasso,Spanish,1881,1973,Christies,15977,Impressionist & Modern,New York,2018-11-11T00:00:00,USD,1.0,61,15A,15,"Pablo Picasso (1881-1973)
 Buste de femme nue (Tête de profil)
 signed 'Picasso' (upper left); dated and numbered '15.5.63.II' (on the reverse)
 oil on canvas
 36 1/8 x 23 5/8 in. (92.8 x 59.9 cm.)
-Painted on 15 May 1963",https://www.christies.com/lotfinder/paintings/pablo-picasso-buste-de-femme-nue-6169481-details.aspx,Buste De Femme Nue (Tete De Profil),painting,1963.0,36 1/8 x 23 5/8 in (92.8 x 59.9 cm),92.8,59.9,-1.0,cm,-1.0,0.0,5000000.0,8000000.0,7494868.251420244
-86,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15977,Impressionist & Modern,New York,2018-11-11T00:00:00,USD,1.0,61.0,11A,11.0,"Pablo Picasso (1881-1973)
+Painted on 15 May 1963",https://www.christies.com/lotfinder/paintings/pablo-picasso-buste-de-femme-nue-6169481-details.aspx,Buste De Femme Nue (Tete De Profil),painting,1963,36 1/8 x 23 5/8 in (92.8 x 59.9 cm),92.8,59.9,-1.0,cm,-1,0,5000000,8000000,7494868.251420244
+86,Pablo Picasso,Spanish,1881,1973,Christies,15977,Impressionist & Modern,New York,2018-11-11T00:00:00,USD,1.0,61,11A,11,"Pablo Picasso (1881-1973)
 Buste de femme (Dora Maar)
 signed and dated 'Picasso 28.3.39.' (upper right); dated again '28.3.39.' (on the reverse)
 oil on panel
 23 5/8 x 17 ¾ in. (59.9 x 45.2 cm.)
-Painted on 28 March 1939",https://www.christies.com/lotfinder/paintings/pablo-picasso-buste-de-femme-6169477-details.aspx,Buste De Femme (Dora Maar),painting,1939.0,59.9 x 45.2 cm,59.9,45.2,-1.0,cm,-1.0,0.0,5000000.0,8000000.0,7562701.181136222
-87,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15977,Impressionist & Modern,New York,2018-11-11T00:00:00,USD,1.0,61.0,5A,5.0,"Pablo Picasso (1881-1973)
+Painted on 28 March 1939",https://www.christies.com/lotfinder/paintings/pablo-picasso-buste-de-femme-6169477-details.aspx,Buste De Femme (Dora Maar),painting,1939,59.9 x 45.2 cm,59.9,45.2,-1.0,cm,-1,0,5000000,8000000,7562701.181136222
+87,Pablo Picasso,Spanish,1881,1973,Christies,15977,Impressionist & Modern,New York,2018-11-11T00:00:00,USD,1.0,61,5A,5,"Pablo Picasso (1881-1973)
 Portrait de Françoise Gilot
 dated '26.12.48' (on the reverse) and dated again '2.5.47.' (on the stretcher)
 oil on canvas
 25 5/8 x 18 1/8 in. (65 x 45.9 cm.)
-Painted 2 May 1947—26 December 1948",https://www.christies.com/lotfinder/paintings/pablo-picasso-portrait-de-francoise-gilot-6169471-details.aspx,Portrait De Francoise Gilot,painting,1948.0,25 5/8 x 18 1/8 in (65 x 45.9 cm),65.0,45.9,-1.0,cm,-1.0,0.0,3000000.0,5000000.0,4041889.530271944
-88,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15977,Impressionist & Modern,New York,2018-11-11T00:00:00,USD,1.0,61.0,20A,18.0,"Pablo Picasso (1881-1973)
+Painted 2 May 1947—26 December 1948",https://www.christies.com/lotfinder/paintings/pablo-picasso-portrait-de-francoise-gilot-6169471-details.aspx,Portrait De Francoise Gilot,painting,1948,25 5/8 x 18 1/8 in (65 x 45.9 cm),65.0,45.9,-1.0,cm,-1,0,3000000,5000000,4041889.530271944
+88,Pablo Picasso,Spanish,1881,1973,Christies,15977,Impressionist & Modern,New York,2018-11-11T00:00:00,USD,1.0,61,20A,18,"Pablo Picasso (1881-1973)
 Buste de femme au voile bleu
 dated ‘28-XI-24’ (on the stretcher)
 oil on canvas
 24 x 19 ¾ in. (61 x 50.1 cm.)
-Painted on 28 November 1924",https://www.christies.com/lotfinder/paintings/pablo-picasso-buste-de-femme-au-voile-6169486-details.aspx,Buste De Femme Au Voile Bleu,painting,1924.0,24 x 19  3/4 in (61 x 50.1 cm),61.0,50.1,-1.0,cm,-1.0,0.0,8000000.0,12000000.0,10311103.49929225
-89,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15977,Impressionist & Modern,New York,2018-11-11T00:00:00,USD,1.0,61.0,8A,8.0,"Pablo Picasso (1881-1973)
+Painted on 28 November 1924",https://www.christies.com/lotfinder/paintings/pablo-picasso-buste-de-femme-au-voile-6169486-details.aspx,Buste De Femme Au Voile Bleu,painting,1924,24 x 19  3/4 in (61 x 50.1 cm),61.0,50.1,-1.0,cm,-1,0,8000000,12000000,10311103.49929225
+89,Pablo Picasso,Spanish,1881,1973,Christies,15977,Impressionist & Modern,New York,2018-11-11T00:00:00,USD,1.0,61,8A,8,"Pablo Picasso (1881-1973)
 Femme accoudée
 signed and dated ‘Picasso 21’ (lower right)
 pastel on paper
 41 ¼ x 29 5/8 in. (104.7 x 75 cm.)
-Executed in 1921",https://www.christies.com/lotfinder/paintings/pablo-picasso-femme-accoudee-6169474-details.aspx,Femme Accoudee,pastel,1921.0,41  1/4 x 29 5/8 in (104.7 x 75 cm),104.7,75.0,-1.0,cm,-1.0,0.0,10000000.0,15000000.0,14358648.010027707
-90,Pablo Picasso,Spanish,1881.0,1973.0,Christies,15977,Impressionist & Modern,New York,2018-11-11T00:00:00,USD,1.0,61.0,11A,11.0,"Pablo Picasso (1881-1973)
+Executed in 1921",https://www.christies.com/lotfinder/paintings/pablo-picasso-femme-accoudee-6169474-details.aspx,Femme Accoudee,pastel,1921,41  1/4 x 29 5/8 in (104.7 x 75 cm),104.7,75.0,-1.0,cm,-1,0,10000000,15000000,14358648.010027707
+90,Pablo Picasso,Spanish,1881,1973,Christies,15977,Impressionist & Modern,New York,2018-11-11T00:00:00,USD,1.0,61,11A,11,"Pablo Picasso (1881-1973)
 Buste de femme (Dora Maar)
 signed and dated 'Picasso 28.3.39.' (upper right); dated again '28.3.39.' (on the reverse)
 oil on panel
 23 5/8 x 17 ¾ in. (59.9 x 45.2 cm.)
-Painted on 28 March 1939",https://www.christies.com/lotfinder/paintings/pablo-picasso-buste-de-femme-6169477-details.aspx,Buste De Femme (Dora Maar),painting,1939.0,59.9 x 45.2 cm,59.9,45.2,-1.0,cm,-1.0,0.0,5000000.0,8000000.0,7562701.181136222
-8386,,,,,,,,,,,,,,,,,,,,,,,,,,,,,170555.65960738726
-8387,,,,,,,,,,,,,,,,,,,,,,,,,,,,,33862.919087796705
-8393,,,,,,,,,,,,,,,,,,,,,,,,,,,,,37755.94567767012
-8398,,,,,,,,,,,,,,,,,,,,,,,,,,,,,33862.919087796705
-8399,,,,,,,,,,,,,,,,,,,,,,,,,,,,,170555.65960738726
-8400,,,,,,,,,,,,,,,,,,,,,,,,,,,,,87235.17013470203
-8401,,,,,,,,,,,,,,,,,,,,,,,,,,,,,170555.65960738726
-8402,,,,,,,,,,,,,,,,,,,,,,,,,,,,,33862.919087796705
-8403,,,,,,,,,,,,,,,,,,,,,,,,,,,,,33862.919087796705
-9323,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49093.578952258395
-9324,,,,,,,,,,,,,,,,,,,,,,,,,,,,,33862.919087796705
-9325,,,,,,,,,,,,,,,,,,,,,,,,,,,,,85529.37818159032
-9326,,,,,,,,,,,,,,,,,,,,,,,,,,,,,52756.73640215906
-9327,,,,,,,,,,,,,,,,,,,,,,,,,,,,,52756.73640215906
-9328,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49093.578952258395
-9337,,,,,,,,,,,,,,,,,,,,,,,,,,,,,87235.17013470203
-9345,,,,,,,,,,,,,,,,,,,,,,,,,,,,,193023.47872998164
-9357,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8138701.924969689
-9359,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4612905.031894231
-9360,,,,,,,,,,,,,,,,,,,,,,,,,,,,,87235.17013470203
-9361,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1033776.0171891291
-9362,,,,,,,,,,,,,,,,,,,,,,,,,,,,,87235.17013470203
-9363,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2638420.766842407
-9364,,,,,,,,,,,,,,,,,,,,,,,,,,,,,350176.72536906786
-9365,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5670137.753534544
-9367,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4612905.031894231
-9368,,,,,,,,,,,,,,,,,,,,,,,,,,,,,413766.5831344849
-9369,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5670137.753534544
-9371,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1033776.0171891291
-9373,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2638420.766842407
-9377,,,,,,,,,,,,,,,,,,,,,,,,,,,,,413766.5831344849
-9379,,,,,,,,,,,,,,,,,,,,,,,,,,,,,33862.919087796705
-9380,,,,,,,,,,,,,,,,,,,,,,,,,,,,,52756.73640215906
-9381,,,,,,,,,,,,,,,,,,,,,,,,,,,,,37755.94567767012
-9382,,,,,,,,,,,,,,,,,,,,,,,,,,,,,33862.919087796705
-9383,,,,,,,,,,,,,,,,,,,,,,,,,,,,,45110.67292977346
-9384,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1033776.0171891291
+Painted on 28 March 1939",https://www.christies.com/lotfinder/paintings/pablo-picasso-buste-de-femme-6169477-details.aspx,Buste De Femme (Dora Maar),painting,1939,59.9 x 45.2 cm,59.9,45.2,-1.0,cm,-1,0,5000000,8000000,7562701.181136222
